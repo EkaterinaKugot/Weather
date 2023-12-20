@@ -4,8 +4,7 @@
 
 ## Демонстрация
 
-![png_1](https://github.com/EkaterinaKugot/Weather/blob/master/1.png)
-
+![png_1](https://github.com/EkaterinaKugot/Weather/blob/master/1.png) 
 ![png_2](https://github.com/EkaterinaKugot/Weather/blob/master/2.png)
 
 
